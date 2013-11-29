@@ -3,7 +3,7 @@ swc-core
 
 SWCombine core code library.
 
-Please read the LICENE and CONTRIBUTOR_AGREEMENT before making or submitting changes, to ensure that you understand the terms of SWC development. Additional discussion is available in CA_Purpose.
+Please read the LICENSE and CONTRIBUTOR_AGREEMENT before making or submitting changes, to ensure that you understand the terms of SWC development. Additional discussion is available in CA_Purpose.
 
 Documentation
 =============
